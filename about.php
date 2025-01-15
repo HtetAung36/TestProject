@@ -15,7 +15,10 @@
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4c184b0bc65e0ee9931db9946df8594477fa9eaa
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
