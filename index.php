@@ -96,9 +96,10 @@ if ($query && $sdquery) {
             </div>
         </div> -->
         <!-- Spinner End -->
-
-
+fdfdfdf
+gfggfg
         <!-- Navbar Start -->
+         qwert
         <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
             <a href="index.php" class="navbar-brand">
                 <h1 class="m-0 text-primary">Denko</h1>
